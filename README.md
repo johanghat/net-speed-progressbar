@@ -6,7 +6,7 @@ $ sudo apt-get install -y python3
 
 $ sudo apt-get install -y git
 
-$ git clone https://github.com/juan-gato/net-speed-progressbar
+$ git clone https://github.com/johanghat/net-speed-progressbar
 
 $ cd net-speed-progressbar
 
